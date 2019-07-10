@@ -1,1 +1,6 @@
 
+As you all know, You can never process text directly in Machine Learning . In order to achieve that You need to convert them into some vector. Word Embedding is just a technique to convert text into numeric form. There could be different techniques. This article will brief you on –  Word Embedding in Python through various Approaches
+This is one of the simplest technique in a word embedding. Here the complete vocabulary is converted into tokens . each token becomes a column. Each document gets into rows. The value will be given on the basis of the count of the words in the corresponding document.
+
+There were some drawbacks on the count vectors. In order to understand them, Let’s think about the articles and punctuation on a sentence. Always there will be higher frequency on those sides.   Although they are not relevant. In order to address this issue, we have a new approach that is TF-IDF. Here we first calculate the term frequency on a particular document. After it, we calculate the number of the document has that term. Let’s understand the formula here –
+This is one of the simplest technique in a word embedding. Here the complete vocabulary is converted into tokens . each token becomes a column. Each document gets into rows. The value will be given on the basis of the count of the words in the corresponding document.
