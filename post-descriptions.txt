@@ -1,0 +1,10 @@
+Todays, Chatbot is the hot and trendy topic. It is a computer program that enables the user to interact with the bot like two real people chat.
+People love python for data science . Obviously Python is wide variety for data structure and inbuilt low complexity algorithms . Not only these but there are so many factors which make python as Most popular data science language . 
+As a Data Scientist and AI programmer, you do most of the works on the JSON data. You usually fetch the JSON data from a particular URL and visualizes it.
+Python programming language is the best choice for any data scientist. If you ask any data scientist, they will easily recommend you to choose python over the other languages.
+Now, most of the people know about the chatbot. Before the year 2015, very few people knew about it. But as the Artificial Intelligence or automation become trendy topic then we came to hear about the term Chatbot.
+Data Validation is one the most common step in Data Processing. Although Python is dynamically typed Language which check the data type a run time . 
+Its obvious for the Data Scientist like you to work in projects with the version control. And besides this, you must be using the Python language as a major programming language. 
+Chatbots are the computer programs that are designed in such a way to make conversation with the human in a real way. It is one of of the major hot topics in the artificial intelligence field.
+From Retail and Hospitality to Banking and Finance , Chatbot is cutting edge Technology . It is a market attraction for most of the Industry. 
+Python is very popular and demanding language. You will see every new programmer likes to learn a programming language in python only. 
